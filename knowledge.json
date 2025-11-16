@@ -1,0 +1,607 @@
+[
+  {
+    "question": "how to join tournament",
+    "answer": "You can join the tournament by registering in #registration channel.",
+    "uses": 18
+  },
+  {
+    "question": "What is the name of the tournament?",
+    "answer": "The tournament is called Punisher Gauntlet.",
+    "uses": 1
+  },
+  {
+    "question": "Which game is the tournament for?",
+    "answer": "The tournament is for Battlegrounds Mobile India (BGMI).",
+    "uses": 0
+  },
+  {
+    "question": "What is the total prize pool?",
+    "answer": "The total prize pool is ₹50,000.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams can participate?",
+    "answer": "A total of 720 teams can participate.",
+    "uses": 0
+  },
+  {
+    "question": "What type of tournament is it?",
+    "answer": "It is an Open + Invite tournament.",
+    "uses": 0
+  },
+  {
+    "question": "Where is the tournament being hosted?",
+    "answer": "The tournament will be hosted online through Discord.",
+    "uses": 0
+  },
+  {
+    "question": "What is the registration link?",
+    "answer": "You can register using this link: https://discord.gg/AdNCmzD6bY",
+    "uses": 0
+  },
+  {
+    "question": "What is the tournament channel link?",
+    "answer": "Tournament communication will happen in: https://discord.gg/XUTUYMuzZZ",
+    "uses": 0
+  },
+  {
+    "question": "What is the last date to register?",
+    "answer": "The registration deadline is October 31, 2025.",
+    "uses": 0
+  },
+  {
+    "question": "What are the tournament dates?",
+    "answer": "The tournament will run from November 1, 2025 to November 30, 2025.",
+    "uses": 0
+  },
+  {
+    "question": "How do I join the tournament?",
+    "answer": "You can join by registering using the Discord registration link.",
+    "uses": 0
+  },
+  {
+    "question": "What is the prize for 1st place?",
+    "answer": "1st place wins ₹24,000.",
+    "uses": 0
+  },
+  {
+    "question": "What is the prize for 2nd place?",
+    "answer": "2nd place wins ₹10,000.",
+    "uses": 0
+  },
+  {
+    "question": "What is the prize for 3rd place?",
+    "answer": "3rd place wins ₹6,000.",
+    "uses": 0
+  },
+  {
+    "question": "Are there any special rewards?",
+    "answer": "Yes, MVP receives ₹2,000 and Fan Favourite receives ₹1,000.",
+    "uses": 0
+  },
+  {
+    "question": "What is the tournament roadmap?",
+    "answer": "Round 1 → Round 2 → Pre-Quarter → Quarter Finals → Semi Finals → Grand Finals.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams qualify from Round 1?",
+    "answer": "Top 8 teams from each group qualify from Round 1.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams qualify from Round 2?",
+    "answer": "Top 8 teams from each group qualify from Round 2.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams qualify from Pre-Quarter?",
+    "answer": "Top 8 teams from each group qualify.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams qualify from Quarter Finals?",
+    "answer": "Top 8 teams from each group qualify.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams qualify from Semi Finals?",
+    "answer": "Top 4 teams from each group qualify to Grand Finals.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams play in Grand Finals?",
+    "answer": "A total of 16 teams play in the Grand Finals.",
+    "uses": 0
+  },
+  {
+    "question": "Who is the organizer of the tournament?",
+    "answer": "The organizer is Aditya Kumar Sonkar, Head of Department at Punisher eSports.",
+    "uses": 0
+  },
+  {
+    "question": "How can I contact the organizer?",
+    "answer": "You can contact at businesswithblade@gmail.com or +91 8922016691.",
+    "uses": 0
+  },
+  {
+    "question": "What is Punisher eSports?",
+    "answer": "Punisher eSports is a professional gaming organization promoting fair play, teamwork, and competitive excellence through esports tournaments.",
+    "uses": 0
+  },
+  {
+    "question": "What is the Punisher Gauntlet?",
+    "answer": "Punisher Gauntlet is a premier BGMI esports tournament hosted by Punisher Esports with a prize pool of ₹50,000.",
+    "uses": 0
+  },
+  {
+    "question": "Which game is the tournament for?",
+    "answer": "The tournament is for Battlegrounds Mobile India (BGMI).",
+    "uses": 0
+  },
+  {
+    "question": "What is the total prize pool?",
+    "answer": "The total prize pool is ₹50,000.",
+    "uses": 0
+  },
+  {
+    "question": "How do I join the tournament?",
+    "answer": "You can join by registering using the link: https://discord.gg/AdNCmzD6bY",
+    "uses": 0
+  },
+  {
+    "question": "Where is the registration link?",
+    "answer": "The official registration link is https://discord.gg/AdNCmzD6bY",
+    "uses": 0
+  },
+  {
+    "question": "Where will tournament updates be posted?",
+    "answer": "All updates will be posted in the tournament Discord channel: https://discord.gg/XUTUYMuzZZ",
+    "uses": 0
+  },
+  {
+    "question": "Is the tournament online or offline?",
+    "answer": "The tournament will be hosted online.",
+    "uses": 0
+  },
+  {
+    "question": "What platform is the tournament being conducted on?",
+    "answer": "The tournament will be managed and coordinated through Discord.",
+    "uses": 0
+  },
+  {
+    "question": "What type of tournament is it?",
+    "answer": "It is an Open + Invite tournament.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams can participate?",
+    "answer": "A total of 720 teams can participate.",
+    "uses": 0
+  },
+  {
+    "question": "What is the registration last date?",
+    "answer": "The last date to register is October 31, 2025.",
+    "uses": 0
+  },
+  {
+    "question": "When will the tournament start?",
+    "answer": "The tournament begins on November 1, 2025.",
+    "uses": 0
+  },
+  {
+    "question": "When will the tournament end?",
+    "answer": "The tournament ends on November 30, 2025.",
+    "uses": 0
+  },
+  {
+    "question": "Is there any registration fee?",
+    "answer": "No, registration is free unless otherwise mentioned in the Discord announcements.",
+    "uses": 0
+  },
+  {
+    "question": "How many players are needed to register a team?",
+    "answer": "Each team must register with 4 players and can optionally add 1 substitute.",
+    "uses": 0
+  },
+  {
+    "question": "Can I play solo or duo?",
+    "answer": "No, this is a squad-only tournament.",
+    "uses": 0
+  },
+  {
+    "question": "Can I change my team after registration?",
+    "answer": "Team changes are not allowed after confirmation unless permitted by admins.",
+    "uses": 0
+  },
+  {
+    "question": "Where can I contact support?",
+    "answer": "You can contact the organizer at businesswithblade@gmail.com.",
+    "uses": 0
+  },
+  {
+    "question": "Who is the organizer?",
+    "answer": "The tournament is organized by Aditya Kumar Sonkar, HOD of Punisher Esports.",
+    "uses": 0
+  },
+  {
+    "question": "What is the prize for 1st place?",
+    "answer": "1st place wins ₹24,000.",
+    "uses": 0
+  },
+  {
+    "question": "What is the prize for 2nd place?",
+    "answer": "2nd place wins ₹10,000.",
+    "uses": 0
+  },
+  {
+    "question": "What is the prize for 3rd place?",
+    "answer": "3rd place wins ₹6,000.",
+    "uses": 0
+  },
+  {
+    "question": "Are there special rewards?",
+    "answer": "Yes, MVP gets ₹2,000 and Fan Favourite gets ₹1,000.",
+    "uses": 0
+  },
+  {
+    "question": "What is the tournament roadmap?",
+    "answer": "Round 1 → Round 2 → Pre-Quarter → Quarter Finals → Semi Finals → Grand Finals.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams qualify from Round 1?",
+    "answer": "Top 8 teams from each group qualify.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams qualify from Round 2?",
+    "answer": "Top 8 teams from each group qualify.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams qualify from the Pre-Quarter?",
+    "answer": "Top 8 teams from each group qualify.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams qualify from the Quarter Finals?",
+    "answer": "Top 8 teams from each group qualify.",
+    "uses": 0
+  },
+  {
+    "question": "How many qualify from the Semi Finals?",
+    "answer": "Top 4 teams from each group qualify.",
+    "uses": 0
+  },
+  {
+    "question": "How many teams will play in the Grand Finals?",
+    "answer": "A total of 16 teams will play in the Grand Finals.",
+    "uses": 0
+  },
+  {
+    "question": "Will the matches be streamed?",
+    "answer": "Match streaming details will be announced in the Discord channel.",
+    "uses": 0
+  },
+  {
+    "question": "How will I know my match timing?",
+    "answer": "Match timings will be posted in Discord under the schedule channel.",
+    "uses": 0
+  },
+  {
+    "question": "What happens if my team is late?",
+    "answer": "Teams that fail to join on time may be disqualified.",
+    "uses": 1
+  },
+  {
+    "question": "Is emulator allowed?",
+    "answer": "No, emulator players are not allowed unless specified.",
+    "uses": 0
+  },
+  {
+    "question": "Are hacks or glitches allowed?",
+    "answer": "No. Any form of cheating results in instant disqualification.",
+    "uses": 0
+  },
+  {
+    "question": "What happens if a player disconnects?",
+    "answer": "The match will continue; no replays for individual issues.",
+    "uses": 0
+  },
+  {
+    "question": "What if the room gets glitched?",
+    "answer": "Admins may decide on a re-host depending on severity.",
+    "uses": 0
+  },
+  {
+    "question": "Can I contact admins during the match?",
+    "answer": "Yes, through the support channel on Discord.",
+    "uses": 0
+  },
+  {
+    "question": "Where can I see the results?",
+    "answer": "Results will be updated in the results channel on Discord.",
+    "uses": 0
+  },
+  {
+    "question": "Will groups be reshuffled?",
+    "answer": "Group reshuffling, if required, will be announced on Discord.",
+    "uses": 0
+  },
+  {
+    "question": "What is Punisher Esports?",
+    "answer": "Punisher Esports is a gaming organization promoting esports talent through tournaments and events.",
+    "uses": 0
+  },
+  {
+    "question": "posi mai top 8 aana hai na?",
+    "answer": "Haan, har group se Top 8 teams qualify karti hain.",
+    "uses": 0
+  },
+  {
+    "question": "top 8 hi qualify karenge kya?",
+    "answer": "Haan, Round 1, Round 2, Pre-Quarter aur Quarter Finals sab me Top 8 qualify karte hain.",
+    "uses": 0
+  },
+  {
+    "question": "bhai kitne teams qualify ho rahi hai?",
+    "answer": "Har group se Top 8 teams qualify hoti hain, except Semi Finals jahan Top 4 qualify hote hain.",
+    "uses": 0
+  },
+  {
+    "question": "hum qualify hue kya?",
+    "answer": "Aap results channel check karein. Wahan list updated hoti hai.",
+    "uses": 0
+  },
+  {
+    "question": "round 1 se kitne jaate hain?",
+    "answer": "Round 1 se har group ke Top 8 teams aage jaati hain.",
+    "uses": 0
+  },
+  {
+    "question": "round 2 me bhi top 8 hi jaayenge kya?",
+    "answer": "Haan, Round 2 me bhi Top 8 teams qualify karti hain.",
+    "uses": 0
+  },
+  {
+    "question": "pre quarter me qualification kya hai?",
+    "answer": "Pre-Quarter me bhi Top 8 teams qualify hoti hain.",
+    "uses": 0
+  },
+  {
+    "question": "quarter finals me kitne qualify honge?",
+    "answer": "Quarter Finals me bhi Top 8 hi qualify karte hain.",
+    "uses": 0
+  },
+  {
+    "question": "semi finals me kitne qualify karenge?",
+    "answer": "Semi Finals se Top 4 teams qualify hokar Grand Finals me aati hain.",
+    "uses": 0
+  },
+  {
+    "question": "gf me total kitne teams hongi?",
+    "answer": "Grand Finals me total 16 teams hongi.",
+    "uses": 0
+  },
+  {
+    "question": "humko next round me jaana hai kya?",
+    "answer": "Agar aap Top 8 (ya Top 4 in Semi Finals) me aaye ho, to aap next round me jaoge.",
+    "uses": 0
+  },
+  {
+    "question": "result kaha milega?",
+    "answer": "Discord ke results channel me saare results mil jayenge.",
+    "uses": 0
+  },
+  {
+    "question": "match timing kab aayega?",
+    "answer": "Schedule channel me timings post ki jayengi.",
+    "uses": 0
+  },
+  {
+    "question": "room id pass kaha aayega?",
+    "answer": "Room ID & Password match ke time par Discord ke room-id channel me aayega.",
+    "uses": 0
+  },
+  {
+    "question": "agar hum late hue to?",
+    "answer": "Late hone par team disqualify ho sakti hai. Time par join karna zaroori hai.",
+    "uses": 0
+  },
+  {
+    "question": "substitute allowed hai kya?",
+    "answer": "Haan, 1 substitute allowed hota hai agar rules me specified hai.",
+    "uses": 0
+  },
+  {
+    "question": "emulator allowed hai kya?",
+    "answer": "Nahi, emulator allowed nahi hai unless admins ne specifically allowed kiya ho.",
+    "uses": 0
+  },
+  {
+    "question": "hack use kiya to?",
+    "answer": "Hack, glitch ya exploit ka use strict disqualification aur permanent ban ka reason banega.",
+    "uses": 0
+  },
+  {
+    "question": "dc ho gaya to rematch milega?",
+    "answer": "Nahi, individual disconnects ke liye rematch nahi diya jata.",
+    "uses": 0
+  },
+  {
+    "question": "room glitch hua to kya hoga?",
+    "answer": "Agar severe glitch hua to admins decision ke hisaab se re-host ho sakta hai.",
+    "uses": 0
+  },
+  {
+    "question": "points system kya hai?",
+    "answer": "Points BGMI standard competitive points system ke according calculate honge.",
+    "uses": 0
+  },
+  {
+    "question": "kill points count hote hain kya?",
+    "answer": "Haan, kill points competitive scoring ka major part hote hain.",
+    "uses": 0
+  },
+  {
+    "question": "humne check-in nahi kiya to?",
+    "answer": "Agar check-in required hai aur aapne nahi kiya, to aap match me nahi khel paayenge.",
+    "uses": 0
+  },
+  {
+    "question": "humari slot confirm hui kya?",
+    "answer": "Slot confirmation Discord ke confirmation channel me posted hoti hai.",
+    "uses": 0
+  },
+  {
+    "question": "team name galat ho gaya to?",
+    "answer": "Team name correction sirf registration close hone se pehle possible hai.",
+    "uses": 0
+  },
+  {
+    "question": "grand finals kitne matches honge?",
+    "answer": "Grand Finals match count Discord announcements me update kiya jayega.",
+    "uses": 0
+  },
+  {
+    "question": "kaise pata chalega hum kis group me hain?",
+    "answer": "Groups ki full list Discord ke groups channel me post hoti hai.",
+    "uses": 0
+  },
+  {
+    "question": "kya hum cross-group khel sakte hain?",
+    "answer": "Nahi, aap sirf apne designated group ka match khel sakte hain.",
+    "uses": 0
+  },
+  {
+    "question": "match kis map pe hoga?",
+    "answer": "Maps admins ke schedule ke hisaab se announce kiye jayenge.",
+    "uses": 0
+  },
+  {
+    "question": "kitne slots hain?",
+    "answer": "Is tournament me total 720 slots available hain.",
+    "uses": 0
+  },
+  {
+    "question": "720 slots full ho gaye kya?",
+    "answer": "Slots full hone ka update Discord ke registration channel me diya jayega. Abhi tak jo update aaya hai wahi final hoga.",
+    "uses": 0
+  },
+  {
+    "question": "extra slot milega kya?",
+    "answer": "Nahi, 720 se zyada slots nahi diye jayenge. Extra slot allowed nahi hai.",
+    "uses": 0
+  },
+  {
+    "question": "slot confirm kaise hoga?",
+    "answer": "Aapka slot tabhi confirm hoga jab admins confirmation list ya registration approval post karenge Discord par.",
+    "uses": 0
+  },
+  {
+    "question": "slots?",
+    "answer": "Total 720 slots available hain.",
+    "uses": 0
+  },
+  {
+    "question": "full?",
+    "answer": "Agar slots full ho jayenge to Discord par announcement aa jayega.",
+    "uses": 0
+  },
+  {
+    "question": "confirm?",
+    "answer": "Confirmation list Discord ke confirmation channel me post hoti hai.",
+    "uses": 0
+  },
+  {
+    "question": "extra?",
+    "answer": "Extra slots available nahi hain. 720 hi fixed limit hai.",
+    "uses": 0
+  },
+  {
+    "question": "space hai?",
+    "answer": "Aap Discord me check karein, latest update wahan mil jayega.",
+    "uses": 0
+  },
+  {
+    "question": "free slots?",
+    "answer": "Agar kuch slots baaki honge to Discord registration channel me dikhaya jayega.",
+    "uses": 0
+  },
+  {
+    "question": "bhai total kitne slots rakhe hain?",
+    "answer": "Total 720 slots rakhe gaye hain tournament ke liye.",
+    "uses": 0
+  },
+  {
+    "question": "bhai slots fill ho gaye kya?",
+    "answer": "Slots fill hone ka update Discord par milta rahega.",
+    "uses": 0
+  },
+  {
+    "question": "slot bacha hai kya?",
+    "answer": "Ye Discord registration updates me bata diya jayega ki slot bache hain ya nahi.",
+    "uses": 0
+  },
+  {
+    "question": "humko slot milega kya?",
+    "answer": "Agar slots available hain aur aapne register kiya hai to admin confirm kar denge.",
+    "uses": 0
+  },
+  {
+    "question": "last me slot milega kya?",
+    "answer": "Last moment slots bahut rare hote hain. Pehle hi register karna zaroori hai.",
+    "uses": 0
+  },
+  {
+    "question": "kya hum late register kare to slot milega?",
+    "answer": "Late registration ka chance kam hota hai. Slot availability Discord par depend karta hai.",
+    "uses": 0
+  },
+  {
+    "question": "full hogaya to hum kya kare?",
+    "answer": "Agar slots full ho jayein to registration close ho jayega. Next tournament ka wait karna padega.",
+    "uses": 0
+  },
+  {
+    "question": "confirm slot kaise pata chalega?",
+    "answer": "Slot confirmation list Discord ke confirmation channel me post ki jayegi.",
+    "uses": 0
+  },
+  {
+    "question": "humari team add hui kya?",
+    "answer": "Admins confirmation list me team names post karte hain. Wahan check karein.",
+    "uses": 0
+  },
+  {
+    "question": "kya registration ke baad slot pakka hota hai?",
+    "answer": "Registration ke baad slot tabhi pakka hota hai jab admin confirm kare.",
+    "uses": 0
+  },
+  {
+    "question": "bhai ek extra slot dilwa do?",
+    "answer": "Sorry, extra slot possible nahi hai. 720 limit fixed hai.",
+    "uses": 0
+  },
+  {
+    "question": "720 ka kya matlab hai?",
+    "answer": "720 total teams allowed hain tournament me.",
+    "uses": 0
+  },
+  {
+    "question": "team count kitna rakha hai?",
+    "answer": "Team count 720 rakha gaya hai.",
+    "uses": 0
+  },
+  {
+    "question": "kya hum 721st team ho sakte hain?",
+    "answer": "Nahi, 720 ke baad koi team add nahi hogi.",
+    "uses": 1
+  },
+  {
+    "question": "slot locked ka kya matlab?",
+    "answer": "Slot locked ka matlab aapka registration confirm ho chuka hai.",
+    "uses": 0
+  }
+]
