@@ -10,7 +10,7 @@ from collections import defaultdict, deque
 #    CONFIG
 # ==========================
 
-DISCORD_TOKEN = "MTQyMTkxOTYxMzc5MjI4ODg2OQ.GC9rqW.txXqz555ZvE1rugWP7MhHf_82Xrrl8Kw_4A1Kk"
+DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
 # Channels where bot responds (leave [] to allow all)
 ALLOWED_CHANNELS = [
@@ -661,5 +661,6 @@ async def slash_help(interaction: discord.Interaction):
 
 
 bot.run(DISCORD_TOKEN)
+
 
 
